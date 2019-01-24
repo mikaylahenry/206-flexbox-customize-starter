@@ -115,7 +115,7 @@ body {
   width: 100%;
 }
 
-#content {
+#content, #content2 {
   /* set the display to flex and use the justify-content & align-items properties to center the text within the div*/
   align-items: center;
   background: #000;
@@ -127,6 +127,7 @@ body {
   font-size: 1.25em;
   justify-content: center;
   line-height: 1.5em;
+  margin: 0px 30px;
   border-radius: 10px;
   padding: 0px 30px;
   width: 400px;
